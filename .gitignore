@@ -1,0 +1,28 @@
+# Secrets
+.key
+*.key
+*.pem
+*.p12
+*.pfx
+*.secret
+.env
+.ENV
+secrets.txt
+credentials.json
+*.token
+*.swp
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env/
+
+# Temporary files
+tempdir/
+*.tmp
+*.log
